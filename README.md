@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj-2703&" alt="adityaraj-2703" /></p>
 
-<p>![Leetcode Stats](https://leetcard.jacoblin.cool/aditya_3342?ext=heatmap)</p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/aditya_3342?ext=heatmap)
