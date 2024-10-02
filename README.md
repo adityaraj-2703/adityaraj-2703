@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [portfolio](https://github.com/adityaraj-2703/adityaraj-2703.github.io)
 
-- 👨‍💻 All of my projects are available at [https://github.com/adityaraj-2703/adityaraj-2703.github.io](https://github.com/adityaraj-2703/adityaraj-2703.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/adityaraj-2703](https://github.com/adityaraj-2703)
 
 - 💬 Ask me about **Java, Spring, Data Structures and Algorithm**
 
@@ -28,3 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj-2703&show_icons=true&locale=en&layout=compact" alt="adityaraj-2703" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj-2703&" alt="adityaraj-2703" /></p>
+
+<p>![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)</p>
