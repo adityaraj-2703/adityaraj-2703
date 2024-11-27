@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raj.adi@northeastern.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pHg46--gTE9MZ-IztMwQqAQF2IMboskG)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18ZRRr4f8Eyi3IOiCMO_ccGX-5r9QwZpy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
