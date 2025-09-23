@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityaraj-2703](https://github.com/adityaraj-2703)
 
-- 💬 Ask me about **Java, Spring, Data Structures and Algorithm**
+- 💬 Ask me about **React, Node.js, Java, Spring, Data Structures and Algorithm**
 
 - 📫 How to reach me **raj.adi@northeastern.edu**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vO58RV68Bchtj59GtkjIsJkCWiFTK5eU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
