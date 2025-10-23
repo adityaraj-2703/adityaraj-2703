@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Node.js, Java, Spring, Data Structures and Algorithm**
 
-- 📫 How to reach me **raj.adi@northeastern.edu**
+- 📫 How to reach me **aditya.raj10946@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
