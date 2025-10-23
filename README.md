@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityaraj-2703](https://github.com/adityaraj-2703)
 
-- 💬 Ask me about **React, Node.js, Java, Spring, Data Structures and Algorithm**
+- 💬 Ask me about **React, Node.js, Java, Python, Spring, Data Structures and Algorithm**
 
 - 📫 How to reach me **aditya.raj10946@gmail.com**
 
