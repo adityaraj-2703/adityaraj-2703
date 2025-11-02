@@ -24,5 +24,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj-2703&show_icons=true&locale=en&layout=compact" alt="adityaraj-2703" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj-2703&" alt="adityaraj-2703" /></p>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/aditya_3342?ext=heatmap)
