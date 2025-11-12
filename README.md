@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/adityaraj2703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaraj2703" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_3342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_3342" height="30" width="40" /></a>
-<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/aditya_3342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj-2703&show_icons=true&locale=en&layout=compact" alt="adityaraj-2703" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj-2703&" alt="adityaraj-2703" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/aditya_3342?ext=heatmap)
