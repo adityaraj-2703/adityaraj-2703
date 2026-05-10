@@ -66,7 +66,7 @@ Software Engineer focused on building scalable backend systems, real-time applic
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=adityaraj-2703&show_icons=true&theme=tokyonight" />
@@ -78,7 +78,7 @@ Software Engineer focused on building scalable backend systems, real-time applic
 
 ---
 
-## 🧠 Interests
+## Interests
 
 - Distributed Systems
 - Backend Engineering
