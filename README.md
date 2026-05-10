@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
+<h1 align="center">Hi, I'm Aditya Raj</h1>
 
 <h3 align="center">
 Software Engineer focused on building scalable backend systems, real-time applications, and cloud-native platforms.
@@ -20,11 +20,11 @@ Software Engineer focused on building scalable backend systems, real-time applic
   - Distributed Systems
   - Data Structures & Algorithms
 
-- 📫 Reach me at: **aditya.3342@gmail.com**
+- Reach me at: **aditya.3342@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/adityaraj2703" target="blank">
@@ -38,7 +38,7 @@ Software Engineer focused on building scalable backend systems, real-time applic
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
