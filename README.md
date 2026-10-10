@@ -87,4 +87,4 @@ Software Engineer focused on building scalable backend systems, real-time applic
 - High Performance Applications
 - Competitive Programming
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/aditya_3342?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/adityaraj_2703?ext=heatmap)
